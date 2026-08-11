@@ -6,7 +6,7 @@
 
 ### About Me
 
-I'm a PhD candidate in the [Risko Lab](https://www.riskolab.org/home), Department of Chemistry & Center for Applied Energy Research, University of Kentucky. I use first-principles methods and machine learning to study energy materials — battery electrodes, catalysts, and hybrid perovskites.
+I'm a PhD candidate in the [Risko Lab](https://www.riskolab.org/home), Department of Chemistry & Center for Applied Energy Research, University of Kentucky. I use first-principles methods and machine learning to study energy materials: battery electrodes, catalysts, and hybrid perovskites.
 
 - 🔬 Battery electrodes: amorphous molybdenum sulfide chalcogels
 - ⚛️ Catalysis: Ni–Cu bimetallic catalysts for renewable diesel production
@@ -51,7 +51,7 @@ I'm a PhD candidate in the [Risko Lab](https://www.riskolab.org/home), Departmen
 
 ### Publications
 
-Full list on [Google Scholar](https://scholar.google.com/citations?user=wTMKeAcAAAAJ&hl=en) — 5 published papers including 2 in *JACS*, with several more in preparation.
+Full list on [Google Scholar](https://scholar.google.com/citations?user=wTMKeAcAAAAJ&hl=en).
 
 ---
 
