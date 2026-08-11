@@ -45,7 +45,7 @@ I'm a PhD candidate in the [Risko Lab](https://www.riskolab.org/home), Departmen
 | [Ni–Cu Bayesian Optimization](#) | BoTorch/ASE workflow screening ethylidyne adsorption on NiCu alloys with MACE potentials |
 | [Perovskite structural analysis](#) | Python pipeline extracting Pb–I bond/angle parameters from VASP CONTCAR files |
 
-*(replace the `#` links above with your actual repo URLs once uploaded)*
+
 
 ---
 
