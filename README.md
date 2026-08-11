@@ -33,12 +33,6 @@ I'm a PhD candidate in the [Risko Lab](https://www.riskolab.org/home), Departmen
 
 ---
 
-### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sba340&show_icons=true&theme=default&hide_title=false" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sba340&layout=compact" height="165" />
-</p>
 
 ---
 
