@@ -40,7 +40,7 @@ I'm a PhD candidate in the [Risko Lab](https://www.riskolab.org/home), Departmen
 
 | Project | Description |
 |---|---|
-| [Chalcogel DFT/AIMD workflow](https://github.com/sba340/chalcogel-dft-aimd-workflow/tree/main) | Structural modeling of amorphous Mo$_x$S$_y$ chalcogels via melt-quench AIMD |
+| [Chalcogel DFT/AIMD workflow](https://github.com/sba340/chalcogel-dft-aimd-workflow/tree/main) | Structural modeling of amorphous Mo<sub>x</sub>S<sub>y</sub> chalcogels via melt-quench AIMD |
 | [Ni-Cu Catalyst Adsorption Screening](https://github.com/sba340/ni-cu-catalyst-screening) | ML-accelerated adsorption energy screening on Ni-Cu catalysts using FAIRChem/OCP models |
 | [Ni–Cu Catalyst Bayesian Optimization Screening](https://github.com/sba340/ni-cu-bo-ethylidyne-screening) | BoTorch/ASE workflow screening ethylidyne adsorption on NiCu alloys with MACE potentials |
 | [Perovskite Structural Analysis](https://github.com/sba340/perovskite-structural-analysis/tree/main) | Python pipeline extracting Pb–I bond/angle parameters from VASP CONTCAR files |
