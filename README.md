@@ -11,6 +11,7 @@ I'm a PhD candidate in the [Risko Lab](https://www.riskolab.org/home), Departmen
 - 🔬 Battery electrodes: amorphous molybdenum sulfide chalcogels
 - ⚛️ Catalysis: Ni–Cu bimetallic catalysts for renewable diesel production
 - ☀️ Perovskites: 2D/3D hybrid perovskite heterostructures for solar cells
+- 🧱 Metal-organic frameworks: hydrogen addition and water adsorption
 - 🤖 Growing focus on ML-accelerated materials discovery (Bayesian optimization, MACE, FAIRChem)
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=wTMKeAcAAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0001-9153-1418) · [Risko Lab](https://www.riskolab.org/home)
 
@@ -33,17 +34,16 @@ I'm a PhD candidate in the [Risko Lab](https://www.riskolab.org/home), Departmen
 
 ---
 
-
----
-
 ### Featured Projects
 
 | Project | Description |
 |---|---|
-| [Ni-Cu Catalyst Adsorption Screening](https://github.com/sba340/ni-cu-catalyst-screening) | ML-accelerated adsorption energy screening on Ni-Cu catalysts using FAIRChem/OCP models |
-| [Ni–Cu Catalyst Bayesian Optimization Screening](https://github.com/sba340/ni-cu-bo-ethylidyne-screening) | BoTorch/ASE workflow screening ethylidyne adsorption on NiCu alloys with MACE potentials |
-| [Perovskite Structural Analysis](https://github.com/sba340/perovskite-structural-analysis/tree/main) | Python pipeline extracting Pb–I bond/angle parameters from VASP CONTCAR files |
-
+| [Ni–Cu Bayesian Optimization](https://github.com/sba340/ni-cu-bayesian-optimization) | BoTorch/GPyTorch workflow screening ethylidyne adsorption sites on NiCu alloy surfaces using ASE and MACE potentials |
+| [Chalcogel DFT/AIMD Workflow](https://github.com/sba340/chalcogel-dft-aimd-workflow) | DFT/AIMD workflow for amorphous MoₓSᵧ chalcogel structural and electronic characterization, including XANES core-hole excitation energy alignment |
+| [Perovskite Structural Analysis](https://github.com/sba340/perovskite-structural-analysis) | Python pipeline extracting Pb–I bond lengths and Pb–I–Pb/I–Pb–I angles from VASP CONTCAR files for 2D Ruddlesden-Popper perovskites |
+| [MOF DFT Analysis](https://github.com/sba340/MOF-DFT-analysis) | DFT-based analysis of hydrogen addition and water adsorption in metal-organic frameworks using VASP |
+| [Adsorbate Site Screening](https://github.com/sba340/adsorbate-site-screening) | Symmetry-based site enumeration and adsorbate placement on relaxed metal slabs, with post-DFT dissociation/desorption screening |
+| [Data Science Coursework](https://github.com/sba340/data-science-coursework) | Six worked data science examples in Python |
 
 ---
 
