@@ -41,8 +41,9 @@ I'm a PhD candidate in the [Risko Lab](https://www.riskolab.org/home), Departmen
 | [Ni–Cu Bayesian Optimization](https://github.com/sba340/ni-cu-bayesian-optimization) | BoTorch/GPyTorch workflow screening ethylidyne adsorption sites on NiCu alloy surfaces using ASE and MACE potentials |
 | [Chalcogel DFT/AIMD Workflow](https://github.com/sba340/chalcogel-dft-aimd-workflow) | DFT/AIMD workflow for amorphous MoₓSᵧ chalcogel structural and electronic characterization, including XANES core-hole excitation energy alignment |
 | [Perovskite Structural Analysis](https://github.com/sba340/perovskite-structural-analysis) | Python pipeline extracting Pb–I bond lengths and Pb–I–Pb/I–Pb–I angles from VASP CONTCAR files for 2D Ruddlesden-Popper perovskites |
-| [MOF DFT Analysis](https://github.com/sba340/MOF-DFT-analysis) |DFT-based analysis of hydrogen addition and Bader charge redistribution on water adsorption in metal-organic frameworks using VASP |
+| [MOF DFT Analysis](https://github.com/sba340/MOF-DFT-analysis) | DFT-based analysis of hydrogen addition and Bader charge redistribution on water adsorption in metal-organic frameworks using VASP |
 | [Adsorbate Site Screening](https://github.com/sba340/adsorbate-site-screening) | Symmetry-based site enumeration and adsorbate placement on relaxed metal slabs, with post-DFT dissociation/desorption screening |
+| [VASP Structure Library](https://github.com/sba340/vasp-structure-library) | Curated VASP POSCAR structures (surface slabs, doped oxides, published geometries) with documented sources, DOI references, and ASE scripts for building new structures |
 | [Data Science Coursework](https://github.com/sba340/data-science-coursework) | Six worked data science examples in Python |
 
 ---
